@@ -1,6 +1,7 @@
 package be.pxl.ja.robbery;
 
 public class Robbery {
+
     public static void main(String[] args) {
         Knapsack knapsack = new Knapsack(35);
 
